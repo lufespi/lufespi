@@ -10,7 +10,7 @@
   Sou estudante de Ciências da Computação, apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em evoluir minhas habilidades na área de back-end, buscando sempre aprender novas tecnologias e boas práticas de desenvolvimento. Tenho habilidades em HTML, CSS, JavaScript, Java, Python, PostgreSQL, Git e Github. Estou sempre em busca de novos desafios que me permitam crescer profissionalmente como desenvolvedor e contribuir para soluções modernas e funcionais. 
 </p>
 <br>
-<h2 align="center">⭐ Minhas Estatísticas</h2>
+<h2 align="center">⭐ Minhas Estatísticas do GitHub</h2>
 <p align="center">
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=lufespi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true">
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufespi&layout=compact&theme=codeSTACKr&include_all_commits=true&count_private=true">

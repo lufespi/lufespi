@@ -48,6 +48,7 @@
   <img src="https://raw.githubusercontent.com/lufespi/lufespi/output/snake.svg" alt="Snake animation" />
 </p>
 
+<!-- Seção do Footer  -->
 <p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF9B45&section=footer">
 </p>

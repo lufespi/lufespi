@@ -14,9 +14,8 @@
 <p align="center">
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=lufespi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true">
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufespi&layout=compact&theme=codeSTACKr&include_all_commits=true&count_private=true">
+  <img src="https://raw.githubusercontent.com/lufespi/lufespi/output/snake.svg" alt="Snake animation" />
 </p>
-
-![Snake animation](https://github.com/lufespi/lufespi/blob/output/github-contribution-grid-snake.svg)
 
 <p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF9B45&section=footer">

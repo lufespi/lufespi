@@ -13,8 +13,8 @@
 <h2 align="center">⭐ Minhas Estatísticas</h2>
 <p align="center">
   <a href="https://github.com/lufespi">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lufespi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufespi&layout=compact&theme=codeSTACKr&include_all_commits=true&count_private=true">
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=lufespi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true">
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufespi&layout=compact&theme=codeSTACKr&include_all_commits=true&count_private=true">
   </a>
 </p>
 

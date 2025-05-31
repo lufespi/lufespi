@@ -6,7 +6,7 @@
 
 <!-- Seção de Apresentação -->
 <h2>📌 Sobre mim </h2>
-<p>
+<p align="justify">
   Sou estudante de Ciências da Computação, apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em evoluir minhas habilidades na área de back-end, buscando sempre aprender novas tecnologias e boas práticas de desenvolvimento. Tenho habilidades em HTML, CSS, JavaScript, Java, Python, PostgreSQL, Git e Github. Estou sempre em busca de novos desafios que me permitam crescer profissionalmente como desenvolvedor e contribuir para soluções modernas e funcionais. 
 </p>
 <br>

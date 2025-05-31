@@ -44,8 +44,8 @@
 <!-- Seção das Estatísticas  -->
 <h2 align="center">⭐ Minhas Estatísticas do GitHub</h2>
 <p align="center">
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=lufespi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true">
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufespi&layout=compact&theme=codeSTACKr&include_all_commits=true&count_private=true">
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=lufespi&show_icons=true&theme=codeSTACKr&include_all_commits=true">
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufespi&layout=compact&theme=codeSTACKr&include_all_commits=true">
   <img src="https://raw.githubusercontent.com/lufespi/lufespi/output/snake.svg" alt="Snake animation" />
 </p>
 
